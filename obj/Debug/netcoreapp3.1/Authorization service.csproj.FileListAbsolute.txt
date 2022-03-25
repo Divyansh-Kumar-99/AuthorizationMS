@@ -285,3 +285,52 @@ C:\Users\2085667\OneDrive - Cognizant\Projects\New folder\Auth Service\Authoriza
 C:\Users\2085667\OneDrive - Cognizant\Projects\New folder\Auth Service\Authorization\obj\Debug\netcoreapp3.1\Authorization service.dll
 C:\Users\2085667\OneDrive - Cognizant\Projects\New folder\Auth Service\Authorization\obj\Debug\netcoreapp3.1\Authorization service.pdb
 C:\Users\2085667\OneDrive - Cognizant\Projects\New folder\Auth Service\Authorization\obj\Debug\netcoreapp3.1\Authorization service.genruntimeconfig.cache
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Authorization service.exe
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Authorization service.deps.json
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Authorization service.runtimeconfig.json
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Authorization service.runtimeconfig.dev.json
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Authorization service.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Authorization service.pdb
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Moq.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MFPE\Final Microservices\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.csproj.AssemblyReference.cache
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.GeneratedMSBuildEditorConfig.editorconfig
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.AssemblyInfoInputs.cache
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.AssemblyInfo.cs
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.csproj.CoreCompileInputs.cache
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.MvcApplicationPartsAssemblyInfo.cs
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.MvcApplicationPartsAssemblyInfo.cache
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization service.StaticWebAssets.Manifest.cache
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization service.StaticWebAssets.xml
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization service.styles.css
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.RazorTargetAssemblyInfo.cache
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.csproj.CopyComplete
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.dll
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.pdb
+C:\MFPE\Final Microservices\Authorization\obj\Debug\netcoreapp3.1\Authorization service.genruntimeconfig.cache

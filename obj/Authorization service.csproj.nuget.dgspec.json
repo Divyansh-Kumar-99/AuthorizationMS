@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2085667\\OneDrive - Cognizant\\Projects\\New folder\\Auth Service\\Authorization\\Authorization service.csproj": {}
+    "C:\\MFPE\\Final Microservices\\Authorization\\Authorization service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2085667\\OneDrive - Cognizant\\Projects\\New folder\\Auth Service\\Authorization\\Authorization service.csproj": {
+    "C:\\MFPE\\Final Microservices\\Authorization\\Authorization service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2085667\\OneDrive - Cognizant\\Projects\\New folder\\Auth Service\\Authorization\\Authorization service.csproj",
+        "projectUniqueName": "C:\\MFPE\\Final Microservices\\Authorization\\Authorization service.csproj",
         "projectName": "Authorization service",
-        "projectPath": "C:\\Users\\2085667\\OneDrive - Cognizant\\Projects\\New folder\\Auth Service\\Authorization\\Authorization service.csproj",
-        "packagesPath": "C:\\Users\\2085667\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2085667\\OneDrive - Cognizant\\Projects\\New folder\\Auth Service\\Authorization\\obj\\",
+        "projectPath": "C:\\MFPE\\Final Microservices\\Authorization\\Authorization service.csproj",
+        "packagesPath": "C:\\Users\\2085553\\.nuget\\packages\\",
+        "outputPath": "C:\\MFPE\\Final Microservices\\Authorization\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\2085667\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2085553\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -22,7 +27,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
